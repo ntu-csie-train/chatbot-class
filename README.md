@@ -5,3 +5,4 @@
   * 到 [github.com](github.com) 註冊帳號
   * 到 [heroku.com](heroku.com) 註冊帳號
   * 到 [developers.facebook.com](heroku.com) 申請成開發者帳號
+  * 到 [https://codeanywhere.com/](https://codeanywhere.com/) 註冊帳號，可以免環境設定
