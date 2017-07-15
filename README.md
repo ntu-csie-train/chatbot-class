@@ -13,7 +13,7 @@
 
 # 建立簡易伺服器
 ## [Express](https://expressjs.com/) 
-用來做後端伺服器的框架。範例檔案[連結](https://github.com/ntu-csie-train/chatbot-class/examples/express)
+用來做後端伺服器的框架。範例檔案[連結](https://github.com/ntu-csie-train/chatbot-class/tree/master/examples/express)
 ```javascript
 const express = require('express')
 const app = express()
@@ -28,7 +28,7 @@ app.listen(3000, function () {
 ```
 
 ## [Request](https://github.com/request/request)
-用來處理 HTTP 呼叫的套件。範例檔案[連結](https://github.com/ntu-csie-train/chatbot-class/examples/request)
+用來處理 HTTP 呼叫的套件。範例檔案[連結](https://github.com/ntu-csie-train/chatbot-class/tree/master/examples/request)
 ```javascript
 const request = require('request');
 request('http://www.google.com', function (error, response, body) {
