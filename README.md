@@ -30,7 +30,7 @@ app.listen(3000, function () {
 ## [Request](https://github.com/request/request)
 用來處理 HTTP 呼叫的套件。範例檔案[連結](https://github.com/ntu-csie-train/chatbot-class/examples/request)
 ```javascript
-var request = require('request');
+const request = require('request');
 request('http://www.google.com', function (error, response, body) {
   console.log('error:', error); // Print the error if one occurred
   console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
