@@ -1,7 +1,9 @@
 # 環境設定
 ## 安裝 Nodejs
-  * 請到官網 [https://nodejs.org/en/download/](https://nodejs.org/en/download/) 下載 Nodejs 並安裝。
+  * 請到 Nodejs 官網 [https://nodejs.org/en/download/](https://nodejs.org/en/download/) 下載並安裝。
 
+## 安裝編輯器
+  * 推薦使用 [Visual Studio Code](https://code.visualstudio.com/) 或 [Sublime Text](https://www.sublimetext.com/)
 ## 註冊帳號
   * 到 [github](https://www.github.com) 註冊帳號
     * 使用 [github desktop](https://desktop.github.com/) 管理與發佈程式碼 
