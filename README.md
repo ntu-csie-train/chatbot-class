@@ -6,8 +6,7 @@
   * 推薦使用 [Visual Studio Code](https://code.visualstudio.com/) 或 [Sublime Text](https://www.sublimetext.com/)
 ## 註冊帳號
   * 到 [github](https://www.github.com) 註冊帳號
-    * 安裝 [git-for-windows](https://git-for-windows.github.io/)
-    * 使用 [github desktop](https://desktop.github.com/) 管理與發佈程式碼 
+    * 如果是 Windows 系統安裝 [git-for-windows](https://git-for-windows.github.io/)
     * [git 教學](https://git-scm.com/book/zh-tw/v1/%E9%96%8B%E5%A7%8B)
   * 到 [heroku](https://www.heroku.com) 註冊帳號
   * 到 [facebook developers](https://developers.facebook.com) 申請成開發者帳號
