@@ -63,3 +63,5 @@ request('http://www.google.com', function (error, response, body) {
  ### URL 與 URI 
   * [URL Strings and URL Objects](https://nodejs.org/api/url.html)
   * [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+ ### Facebook Messenger Platform Getting Started
+  * [setup](https://developers.facebook.com/docs/messenger-platform/guides/setup)
