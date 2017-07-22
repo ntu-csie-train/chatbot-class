@@ -56,3 +56,6 @@ request('http://www.google.com', function (error, response, body) {
   * [setup](https://developers.facebook.com/docs/messenger-platform/guides/setup)
  ### [ngrok](https://ngrok.com/)
   * 這個套件可以讓 localhost 的連結被外面連進來，而且還支援 https，適合開發 chatbot 的時候 debug
+
+ ### [postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
+  * Chrome 的插件，可以用來傳送 HTTP request
