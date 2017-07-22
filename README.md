@@ -43,11 +43,11 @@ request('http://www.google.com', function (error, response, body) {
   詳見這個[連結](./deploy_fb_chatbot.md)
 
 ## 部署 LINE
-  * https://github.com/ntu-csie-train/telegram-echo-bot-starter
-
-## 部署 Telegram
   * https://github.com/ntu-csie-train/line-echo-bot-starter
 
+
+## 部署 Telegram
+  * https://github.com/ntu-csie-train/telegram-echo-bot-starter
 ## 補充資料
  ### URL 與 URI 
   * [URL Strings and URL Objects](https://nodejs.org/api/url.html)
