@@ -39,25 +39,8 @@ request('http://www.google.com', function (error, response, body) {
 });
 ```
 
-## [Heroku](https://www.heroku.com)
-用以部署程式碼，並運行程式碼。以 [echo-bot-starter](https://github.com/ntu-csie-train/echo-bot-starter) 這個專案舉例
-  1. 先把 [echo-bot-starter](https://github.com/ntu-csie-train/echo-bot-starter) 這個 fork 到自己的 github 專案
-  2. 把 fork 過後的專案載到自己的電腦
-  ```
-  $ git clone git@github.com:<你的github帳號>/echo-bot-starter.git
-  ```
-  3. 到 heroku 新增一個 heroku 專案
-  4. 安裝 [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli) 這是一個 command line 工具，可以幫助你使用 heroku
-  5. 從 command line 登入 heroku
-  ```bash
-  $ heroku login
-  ```
-  6. 切換目錄到步驟 2. 的專案資料夾
-  ```
-  $ heroku git:remote -a <herok 的專案名稱>
-  $ git push heroku master
-  ```
-  7. 成功後到 `https://<herok 的專案名稱>.herokuapp.com/` 的地方瀏覽網頁
+## 部署 Facebook chatbot
+  詳見這個[連結](./deploy_fb_chatbot.md)
 
 ## 補充資料
  ### URL 與 URI 
