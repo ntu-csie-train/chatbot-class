@@ -10,7 +10,6 @@
     * [git 教學](https://git-scm.com/book/zh-tw/v1/%E9%96%8B%E5%A7%8B)
   * 到 [heroku](https://www.heroku.com) 註冊帳號
   * 到 [facebook developers](https://developers.facebook.com) 申請成開發者帳號
-  * 到 [codeanywhere](https://codeanywhere.com/) 註冊帳號，可以免環境設定（如果環境真得沒辦法順利設定的話）
 
 # 建立簡易伺服器
 ## [Express](https://expressjs.com/) 
