@@ -54,8 +54,10 @@ request(url,
 
 ## 部署 Telegram
   * https://github.com/ntu-csie-train/telegram-echo-bot-starter
-  * [telegram-incoming-message](https://core.telegram.org/bots/api#getting-updates)
-  * [telegram-outgoing-message](https://core.telegram.org/bots/api#sendmessage)
+  * [set-webhook](https://core.telegram.org/bots/api#setwebhook)
+  * [incoming-message](https://core.telegram.org/bots/api#getting-updates)
+  * [outgoing-message](https://core.telegram.org/bots/api#sendmessage)
+
 
 ## 補充資料
  ### URL 與 URI 
