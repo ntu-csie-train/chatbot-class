@@ -49,7 +49,8 @@ request(url,
 
 ## 部署 LINE
   * https://github.com/ntu-csie-train/line-echo-bot-starter
-
+  * LINE Business Center https://business.line.me/
+  * LINE API https://devdocs.line.me/en/#reply-message
 
 ## 部署 Telegram
   * https://github.com/ntu-csie-train/telegram-echo-bot-starter
