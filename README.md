@@ -58,6 +58,8 @@ request(url,
   * [incoming-message](https://core.telegram.org/bots/api#getting-updates)
   * [outgoing-message](https://core.telegram.org/bots/api#sendmessage)
 
+## 作業
+  * [homework](/homework.md)
 
 ## 補充資料
  ### URL 與 URI 
