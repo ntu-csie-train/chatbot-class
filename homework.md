@@ -4,7 +4,7 @@
 
 ### 作業需求
 
-chatbot 需要完成以下的回應
+實作任一平台的 chatbot，並且 chatbot 需要完成以下的回應。可以使用課堂有教的 [chatfuel](chatfuel.com)，或是透過部署程式碼到 heroku 的也可以。
 
 詢問 | 輸出 | 註解
 ---- | ---- | ----
