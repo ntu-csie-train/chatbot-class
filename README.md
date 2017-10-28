@@ -59,6 +59,9 @@ request(url,
   * [incoming-message](https://core.telegram.org/bots/api#getting-updates)
   * [outgoing-message](https://core.telegram.org/bots/api#sendmessage)
 
+## 使用 Chatbot 分析服務
+  * [Botimize](https://www.getbotimize.com/)
+
 ## 作業
   * [homework](/homework.md)
 
