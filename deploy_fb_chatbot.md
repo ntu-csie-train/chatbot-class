@@ -10,6 +10,7 @@
    * 用來將程式碼從 github 載下來的工具
    * 在[這裡](https://git-scm.com/downloads/guis/)可以找到用 GUI 介面使用 git 的應用程式  
  * 安裝 [Nodejs](https://nodejs.org/en/)
+ * 申請 Facebook App [https://developers.facebook.com/](https://developers.facebook.com/)
 
 ## 步驟0. Fork 專案
  在這個步驟裡，我們要用一個已經寫好的專案，點此[連結](https://github.com/ntu-csie-train/facebook-messenger-echo-bot)，並按下 Fork 將這個專案複製到自己的 github 帳號底下。
