@@ -50,7 +50,7 @@ request(url,
 ## 部署 LINE
   * https://github.com/ntu-csie-train/line-echo-bot-starter
   * LINE @生活圈 http://at.line.me/tw/ 
-  * LINE Developers https://developers.line.m
+  * LINE Developers https://developers.line.me
   * LINE API send-reply-message https://developers.line.me/en/docs/messaging-api/reference/#send-reply-message
 
 ## 部署 Telegram
