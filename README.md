@@ -44,17 +44,19 @@ request(url,
 
 ```
 
-## 部署 Facebook chatbot
-  詳見這個[連結](./deploy_fb_chatbot.md)
+## Facebook ChatBot
+  * 部署 ChatBot 詳見這份[文件](./deploy_fb_chatbot.md)
+  * [facebook-incoming-message](https://developers.facebook.com/docs/messenger-platform/webhook-reference#format)
+* [facebook-outgoing-message](https://developers.facebook.com/docs/messenger-platform/send-api-reference#request)
 
-## 部署 LINE
-  * https://github.com/ntu-csie-train/line-echo-bot-starter
+## LINE ChatBot
+  * 部署用專案 https://github.com/ntu-csie-train/line-echo-bot-starter
   * LINE @生活圈 http://at.line.me/tw/ 
   * LINE Developers https://developers.line.me
   * LINE API send-reply-message https://developers.line.me/en/docs/messaging-api/reference/#send-reply-message
 
-## 部署 Telegram
-  * https://github.com/ntu-csie-train/telegram-echo-bot-starter
+## Telegram ChatBot
+  * 部署用專案 https://github.com/ntu-csie-train/telegram-echo-bot-starter
   * [set-webhook](https://core.telegram.org/bots/api#setwebhook)
   * [incoming-message](https://core.telegram.org/bots/api#getting-updates)
   * [outgoing-message](https://core.telegram.org/bots/api#sendmessage)
