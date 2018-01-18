@@ -80,3 +80,4 @@ request(url,
  ### [postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
   * Chrome 的插件，可以用來傳送 HTTP request
  ### [Graph API Explorer](https://developers.facebook.com/tools/explorer/)
+ ### [Places Search API for Web](https://developers.facebook.com/docs/places/web/search)
