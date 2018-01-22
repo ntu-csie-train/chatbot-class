@@ -46,7 +46,7 @@ request(url,
 
 ## Facebook ChatBot
   * 部署 ChatBot 詳見這份[文件](./deploy_fb_chatbot.md)
-  * 參考[專案](https://github.com/annonapk/facebook-messenger-echo-bot)
+  * 參考用專案 https://github.com/annonapk/facebook-messenger-echo-bot
   * [facebook-incoming-message](https://developers.facebook.com/docs/messenger-platform/webhook-reference#format)
   * [facebook-outgoing-message](https://developers.facebook.com/docs/messenger-platform/send-api-reference#request)
   * [Places Search API for Web](https://developers.facebook.com/docs/places/web/search)
@@ -54,7 +54,8 @@ request(url,
 
 ## LINE ChatBot
   * 部署用專案 https://github.com/ntu-csie-train/line-echo-bot-starter
-  * LINE @生活圈 http://at.line.me/tw/ 
+  * 參考用專案 https://github.com/annonapk/line-echo-bot-starter
+  * LINE @生活圈 http://at.line.me/tw/ 
   * LINE Developers https://developers.line.me
   * LINE API send-reply-message https://developers.line.me/en/docs/messaging-api/reference/#send-reply-message
 
