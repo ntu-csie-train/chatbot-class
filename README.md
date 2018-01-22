@@ -49,6 +49,8 @@ request(url,
   * 參考[專案](https://github.com/annonapk/facebook-messenger-echo-bot)
   * [facebook-incoming-message](https://developers.facebook.com/docs/messenger-platform/webhook-reference#format)
   * [facebook-outgoing-message](https://developers.facebook.com/docs/messenger-platform/send-api-reference#request)
+  * [Places Search API for Web](https://developers.facebook.com/docs/places/web/search)
+  * [Private_replies](https://developers.facebook.com/docs/graph-api/reference/object/private_replies/)
 
 ## LINE ChatBot
   * 部署用專案 https://github.com/ntu-csie-train/line-echo-bot-starter
@@ -80,4 +82,3 @@ request(url,
  ### [postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
   * Chrome 的插件，可以用來傳送 HTTP request
  ### [Graph API Explorer](https://developers.facebook.com/tools/explorer/)
- ### [Places Search API for Web](https://developers.facebook.com/docs/places/web/search)
