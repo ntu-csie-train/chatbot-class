@@ -59,6 +59,7 @@ request(url,
   * LINE Developers https://developers.line.me
   * LINE API send-reply-message https://developers.line.me/en/docs/messaging-api/reference/#send-reply-message
   * [LINE SDK Nodejs](https://line.github.io/line-bot-sdk-nodejs/)
+  * [LINE Messaging API](https://developers.line.me/en/docs/messaging-api/reference/)
 
 ## Telegram ChatBot
   * 部署用專案 https://github.com/ntu-csie-train/telegram-echo-bot-starter
