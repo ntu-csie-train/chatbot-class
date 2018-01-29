@@ -13,7 +13,6 @@ npm install mongodb --save
 const MongoClient = require('mongodb').MongoClient;
 // Connect to the db mongodb://<user>:<password>@<host>:<port>/<databasename>
 MongoClient.connect(
-  // "mongodb://ggm:ntucsie123@ds111496.mlab.com:11496/js-class-1116",
   "mongodb://ggm:ntucsie123@ds117758.mlab.com:17758/chatbot-2018",
   function(err, client) {
     if (err) {
