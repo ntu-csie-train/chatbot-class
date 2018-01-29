@@ -44,13 +44,19 @@ request(url,
 
 ```
 
+## Mongodb
+  * [Mongodb 官方文件](https://mongodb.github.io/node-mongodb-native/)
+  * Mongodb 的 SaaS 服務[mlab](https://mlab.com/)
+  * [課程教學文件](./mongodb.md)
+
 ## Facebook ChatBot
   * 部署 ChatBot 詳見這份[文件](./deploy_fb_chatbot.md)
-  * 參考用專案 https://github.com/annonapk/facebook-messenger-echo-bot
+  * 參考用專案 https://github.com/annonapk/facebook-messenger-echo-bot
   * [facebook-incoming-message](https://developers.facebook.com/docs/messenger-platform/webhook-reference#format)
   * [facebook-outgoing-message](https://developers.facebook.com/docs/messenger-platform/send-api-reference#request)
   * [Places Search API for Web](https://developers.facebook.com/docs/places/web/search)
   * [Private_replies](https://developers.facebook.com/docs/graph-api/reference/object/private_replies/)
+  * [Facebook Messenger Platform Getting Started](https://developers.facebook.com/docs/messenger-platform/guides/setup)
 
 ## LINE ChatBot
   * 部署用專案 https://github.com/ntu-csie-train/line-echo-bot-starter
@@ -77,11 +83,10 @@ request(url,
  ### URL 與 URI 
   * [URL Strings and URL Objects](https://nodejs.org/api/url.html)
   * [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
- ### Facebook Messenger Platform Getting Started
-  * [setup](https://developers.facebook.com/docs/messenger-platform/guides/setup)
  ### [ngrok](https://ngrok.com/)
   * 這個套件可以讓 localhost 的連結被外面連進來，而且還支援 https，適合開發 chatbot 的時候 debug
 
  ### [postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
   * Chrome 的插件，可以用來傳送 HTTP request
  ### [Graph API Explorer](https://developers.facebook.com/tools/explorer/)
+  * Facebook Graph API 的好用工具
