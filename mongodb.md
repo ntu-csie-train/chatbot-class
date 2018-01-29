@@ -3,6 +3,11 @@
   * Mongodb 的 SaaS 服務[mlab](https://mlab.com/)
   * [課程教學文件](./mongodb.md)
 
+## 安裝
+```
+npm install mongodb --save
+```
+
 ## 建立連線
 ```javascript
 const MongoClient = require('mongodb').MongoClient;
