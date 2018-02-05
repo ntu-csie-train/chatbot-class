@@ -76,6 +76,8 @@ request(url,
 
 ## Google Cloud Natural Language API
   * [google developer console](https://console.developers.google.com/)
+  * [Google Cloud Natural Language API Documentation](https://cloud.google.com/natural-language/docs/)
+  * [Google Cloud Natural Language API: Node.js Client](https://cloud.google.com/nodejs/docs/reference/language/1.1.x/?hl=zh-tw)
 
 ## 使用 Chatbot 分析服務
   * [Botimize](https://www.getbotimize.com/)
