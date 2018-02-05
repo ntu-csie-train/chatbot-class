@@ -74,6 +74,9 @@ request(url,
   * [incoming-message](https://core.telegram.org/bots/api#getting-updates)
   * [outgoing-message](https://core.telegram.org/bots/api#sendmessage)
 
+## Google Cloud Natural Language API
+  * [google developer console](https://console.developers.google.com/)
+
 ## 使用 Chatbot 分析服務
   * [Botimize](https://www.getbotimize.com/)
 
