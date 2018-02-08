@@ -81,7 +81,8 @@ request(url,
 
 ## Dialogflow
   * [dialogflow](https://dialogflow.com/)
-  * [dialogflow-nodejs-sdk](https://github.com/dialogflow/dialogflow-nodejs-client)
+  * [dialogflow-nodejs-client](https://github.com/dialogflow/dialogflow-nodejs-client)
+  * [dialogflow-nodejs-client-v2](https://github.com/dialogflow/dialogflow-nodejs-client-v2)
 
 ## 使用 Chatbot 分析服務
   * [Botimize](https://www.getbotimize.com/)
